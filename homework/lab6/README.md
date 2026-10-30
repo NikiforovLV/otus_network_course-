@@ -199,7 +199,7 @@ end ### выход из режима настройки терминала
 
 > conf t\
 !\
- interface range G0/0/1.10\
+ interface G0/0/1.10\
  !\
 Description default gateway for VLAN 10 ##описание назначение интерфейса\
 !\
