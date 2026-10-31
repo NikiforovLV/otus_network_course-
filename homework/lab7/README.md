@@ -55,13 +55,13 @@
 
 #### Шаг 4 Проверка связи
 
-От S1 к S2:
+От S1 к S2:\
 ![alt text](pingS1_S2.png)
 
-От S1 к S3:
+От S1 к S3:\
 ![alt text](pingS1_S3.png)
 
-От S2 к S3:
+От S2 к S3:\
 ![alt text](pingS2_S3.png)
 
 ### Часть 2. Определение корневого моста
@@ -74,13 +74,13 @@
 
 #### Шаг 4 Отображение данных протокола spanning-tree
 
-S1 spanning-tree:
+S1 spanning-tree:\
 ![alt text](S1_ST.png)
 
-S2 spanning-tree:
+S2 spanning-tree:\
 ![alt text](S2_ST.png)
 
-S3 spanning-tree:
+S3 spanning-tree:\
 ![alt text](S3_ST.png)
 
 Ответы на вопросы. 
