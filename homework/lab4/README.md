@@ -99,19 +99,19 @@
 
 ### Часть 3 проверка сквозного подключения
 
-Запрос c PC-A на G0/0/1 на R1
+Запрос c PC-A на G0/0/1 на R1\
 ![alt text](pingPCA_R1.png)
 
-Запрос на S1 с PC-A
+Запрос на S1 с PC-A\
 ![alt text](pingPCA_S1.png)
 
-Запрос tracert с PC-A на PC-B
+Запрос tracert с PC-A на PC-B\
 ![alt text](tracertPCA_PCB.png)
 
-Запрос с PC-B на PC-A
+Запрос с PC-B на PC-A\
 ![alt text](pingPCB_PCA.png)
 
-Запрос с PC-B на интерфейс G0/0/0 R1
+Запрос с PC-B на интерфейс G0/0/0 R1\
 ![alt text](pingPCB_R1.png)
 
 Сквозное подключение работает между всеми устройствами. Сеть настроена верно.
